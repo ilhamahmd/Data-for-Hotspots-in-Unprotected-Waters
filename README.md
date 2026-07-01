@@ -6,7 +6,7 @@ The "BRUV Bira 2022 - 2024 info.csv" is the general description of each BRUV dep
   - **site**: site at which BRUV was deployed
   - **code**: short abbreviation code for site
   - **locality**: locality at which the site falls into
-  - **bruv_id**: BRUV deployment unique code
+  - **bruv_id**: BRUV deployment unique ID
   - **longitude, latitude**: Coordinates for BRUV deployment. Retrieved through GPS collected at the location of Surface Marker Buoy (SMB) indicating BRUV                                  location
   - **depth**: depth at which BRUV is deployed
   - **soak_time**: Total effective recording period. Begins once divers exited the camera's field of view and also no audible breathing bubbles, continues                        until the end of the recording.
