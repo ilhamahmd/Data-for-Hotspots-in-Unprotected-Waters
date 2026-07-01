@@ -9,6 +9,7 @@ The "BRUV Bira 2022 - 2024 info.csv" is the general description of each BRUV dep
   - **bruv_id**: BRUV deployment unique ID
   - **longitude, latitude**: Coordinates for BRUV deployment. Retrieved through GPS collected at the location of Surface Marker Buoy (SMB) indicating BRUV                                  location
   - **depth**: depth at which BRUV is deployed
+  - **time_in**: time (GMT+8) at which the dive started for BRUV deployment stored in a 24-hour format. 
   - **soak_time**: Total effective recording period. Begins once divers exited the camera's field of view and also no audible breathing bubbles, continues                        until the end of the recording.
 
 While the "BRUV Bira 2022 - 2024 MaxN.csv" is the MaxN number for sharks and rays at each BRUV deployment, consisting:
